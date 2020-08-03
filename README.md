@@ -17,11 +17,11 @@ Intern.test.js<br>
 Manager.test.js<br>
 app.js // Runs the application<br>
 
-User input<br>
+User input:<br>
 The project must prompt the user to build an engineering team. An engineering<br>
 team consists of a manager, and any number of engineers and interns.<br>
 
-Roster output<br>
+Roster output:<br>
 The project must generate a team.html page in the output directory, that displays a nicely formatted team <br>roster. Each team member should display the following in no particular order:<br>
 
 Name<br>
