@@ -1,6 +1,6 @@
 As a manager<br>
 I want to generate a webpage that displays my team's basic info<br>
-so that I have quick access to emails and GitHub profiles<br>
+so that I have quick access to emailasdfs and GitHub profiles<br>
 
 he dependencies are, jest for running the provided tests, <br>
 and inquirer for collecting input from the user.<br>
