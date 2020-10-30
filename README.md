@@ -17,6 +17,20 @@ Intern.test.js<br>
 Manager.test.js<br>
 app.js // Runs the application<br>
 
+and inquirer for collecting input from the user.<br>
+
+The file Structure is:<br>
+
+lib/ // classes and helper code<br>
+output/ // rendered output<br>
+templates/ // HTML template(s)<br>
+test/ // jest tests<br>
+Employee.test.js<br>
+Engineer.test.js<br>
+Intern.test.js<br>
+Manager.test.js<br>
+app.js // Runs the application<br>
+
 User input:<br>
 The project must prompt the user to build an engineering team. An engineering<br>
 team consists of a manager, and any number of engineers and interns.<br>
